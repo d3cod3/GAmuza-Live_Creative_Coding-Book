@@ -2,4 +2,4 @@
 
 A short description of the book.
 
-![A screenshot of the book]
+![Live Creative Coding](http://gamuza.d3cod3.org/graphics/GABook.jpg "Live Creative Coding")
